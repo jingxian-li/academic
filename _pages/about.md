@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolorI did my PhD in Materials Science and Master degree in Electrical and Computer Engineering, specializing in Computer Vision, at the University of Michigan, Ann Arbor. sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I did my PhD in Materials Science and Master degree in Electrical and Computer Engineering, specializing in Computer Vision, at the University of Michigan, Ann Arbor.
 
-ith total​My research passion lies in developing novel memory and computing paradigms using emerging materials and devices, such as spintronic, ferroelectric, superconducting, and electrochemical systems.
+My research passion lies in developing novel memory and computing paradigms using emerging materials and devices, such as spintronic, ferroelectric, superconducting, and electrochemical systems.
 
-During my PhD, I applied materials science and engineering principles to understand and design resistive memory devices driven by electrochemical processes. Specifically, I investigated oxygen transport dynamics in two-terminal resistive random-access memory (RRAM) and developed high-temperature three-terminal electrochemical random-access memory (ECRAM). I have published ~10 papers <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+During my PhD, I applied materials science and engineering principles to understand and design resistive memory devices driven by electrochemical processes. Specifically, I investigated oxygen transport dynamics in two-terminal resistive random-access memory (RRAM) and developed high-temperature three-terminal electrochemical random-access memory (ECRAM). I have published ~10 papers <a href='https://scholar.google.com/citations?user=Snh-2QIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 🔥 News
