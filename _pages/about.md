@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I did my PhD in Materials Science and Master degree in Electrical and Computer Engineering, specializing in Computer Vision, at the University of Michigan, Ann Arbor.
+I did my PhD in Materials Science and Engineering, and Master degree in Electrical and Computer Engineering, specializing in Computer Vision, at the University of Michigan, Ann Arbor.
 
 My research passion lies in developing novel memory and computing paradigms using emerging materials and devices, such as spintronic, ferroelectric, superconducting, and electrochemical systems.
 
