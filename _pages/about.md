@@ -30,7 +30,7 @@ My research passion lies in developing information processing paradigms using em
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chemical Reviews</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chemical Reviews</div><img src='images/CheRev.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Electrochemical random-access memory: progress, perspectives, and opportunities](https://pubs.acs.org/doi/full/10.1021/acs.chemrev.4c00512)
