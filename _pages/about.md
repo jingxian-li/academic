@@ -21,7 +21,7 @@ I did my PhD in Materials Science and Master degree in Electrical and Computer E
 
 My research passion lies in developing novel memory and computing paradigms using emerging materials and devices, such as spintronic, ferroelectric, superconducting, and electrochemical systems.
 
-During my PhD, I applied materials science and engineering principles to understand and design resistive memory devices driven by electrochemical processes. Specifically, I investigated oxygen transport dynamics in two-terminal resistive random-access memory (RRAM) and developed high-temperature three-terminal electrochemical random-access memory (ECRAM). I have published ~10 papers <a href='https://scholar.google.com/citations?user=Snh-2QIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+During my PhD, I applied materials science and engineering principles to understand and design resistive memory devices on electrochemical processes. Specifically, I investigated oxygen transport dynamics in two-terminal resistive random-access memory (RRAM) and developed high-temperature three-terminal electrochemical random-access memory (ECRAM). I have published ~10 papers <a href='https://scholar.google.com/citations?user=Snh-2QIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 🔥 News
