@@ -37,8 +37,8 @@ My research passion lies in developing information processing paradigms using em
 
 A Alec Talin*, Jordan Meyer, **Jingxian Li**, Mantao Huang, Miranda Schwacke, Heejung W Chung, Longlong Xu, Elliot J Fuller, Yiyang Li*, Bilge Yildiz*
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Chemical Reviews, 125 (4), 1962-2008 (2025) <strong><span class='show_paper_citations' data='Snh-2QIAAAAJ:Y0pCki6q_DkC'></span></strong>
+- In this review, we discuss the history, basic concepts, recent progress, as well as the challenges and opportunities for different types of electrochemical random access memory (ECRAM), broadly grouped by their primary mobile ionic charge carrier, including Li, protons, and oxygen vacancies. 
 </div>
 </div>
 
