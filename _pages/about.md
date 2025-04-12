@@ -35,10 +35,22 @@ My research passion lies in developing information processing paradigms using em
 
 [Electrochemical random-access memory: progress, perspectives, and opportunities](https://pubs.acs.org/doi/full/10.1021/acs.chemrev.4c00512)
 
-A Alec Talin*, Jordan Meyer, **Jingxian Li**, Mantao Huang, Miranda Schwacke, Heejung W Chung, Longlong Xu, Elliot J Fuller, Yiyang Li*, Bilge Yildiz*
+A Alec Talin\*, Jordan Meyer, **Jingxian Li**, Mantao Huang, Miranda Schwacke, Heejung W Chung, Longlong Xu, Elliot J Fuller, Yiyang Li\*, Bilge Yildiz*
 
 Chemical Reviews, 125 (4), 1962-2008 (2025) <strong><span class='show_paper_citations' data='Snh-2QIAAAAJ:Y0pCki6q_DkC'></span></strong>
 - In this review, we discuss the history, basic concepts, recent progress, as well as the challenges and opportunities for different types of electrochemical random access memory (ECRAM), broadly grouped by their primary mobile ionic charge carrier, including Li, protons, and oxygen vacancies. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Device</div><img src='images/Device.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Nonvolatile electrochemical memory at 600°C enabled by composition phase separation](https://www.cell.com/device/fulltext/S2666-9986(24)00580-5)
+
+**Jingxian Li\***, Andrew J Jalbert, Sangyong Lee, Leah S Simakas, Noah J Geisler, Virgil J Watkins, Laszlo A Cline, Elliot J Fuller, A Alec Talin, Yiyang Li*
+
+Device, 3 (3), 100623 (2025) <strong><span class='show_paper_citations' data='Snh-2QIAAAAJ:zYLM7Y9cAGgC'></span></strong>
+- We present a solid-state memory device that can operate and store information at temperatures as high as 600 °C. Rather than relying on the motion of electrons, this device stores information through the electrochemical migration of oxygen ions in transition metal oxides, a process that resembles that of solid oxide fuel cells and batteries. 
 </div>
 </div>
 
