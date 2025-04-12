@@ -79,6 +79,7 @@ A Alec Talin\*, Jordan Meyer, **Jingxian Li**, Mantao Huang, Miranda Schwacke, H
 </div>
 
 - [Tuning analog resistive switching and plasticity in bilayer transition metal oxide based memristive synapses](https://pubs.rsc.org/en/content/articlelanding/2017/ra/c7ra07522g), **Jingxian Li**, Qingxi Duan, Teng Zhang, Minghui Yin, Xinhao Sun, Yimao Cai, Lidong Li\*, Yuchao Yang\*, and Ru Huang\*, *RSC Advance* **7**, 43132-43140 (2017)
+- [Design, synthesis and characterization of a new blue phosphorescent Ir complex](https://pubs.rsc.org/en/content/articlehtml/2015/tc/c5tc01544h), Chuang Yao†, **Jingxian Li†**, Jinshan Wang, Xinjun Xu\*, Ronghua Liu, Lidong Li\*, *Journal of Materials Chemistry C* **3(33)**, 8675-8683 (2015)
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
