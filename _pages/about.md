@@ -25,10 +25,10 @@ My research passion lies in developing information processing paradigms using em
 
 
 # 📖 Educations
-- *2020.09 - 2024.09*, Ph.D. in Materials Science and Engineering, University of Michigan, Ann Arbor, MI. 
-- *2022.09 - 2019.04*, M.S. in Computer Vision, Electrical and Computer Engineering, University of Michigan, Ann Arbor, MI.
-- *2015.09 - 2018.01*, M.E. in Materials Science and Engineering, University of Science and Technology Beijing, China.
-- *2011.09 - 2015.06*, B.E. in Materials Physics, University of Science and Technology Beijing, China. 
+- *2020.09 - 2024.09*, Ph.D. in Materials Science and Engineering, University of Michigan, Ann Arbor, MI
+- *2022.09 - 2014.04*, M.S. in Computer Vision, Electrical and Computer Engineering, University of Michigan, Ann Arbor, MI
+- *2015.09 - 2018.01*, M.E. in Materials Science and Engineering, University of Science and Technology Beijing, China
+- *2011.09 - 2015.06*, B.E. in Materials Physics, University of Science and Technology Beijing, China 
 
 # 📝 Publications 
 
@@ -84,9 +84,18 @@ A Alec Talin\*, Jordan Meyer, **Jingxian Li**, Mantao Huang, Miranda Schwacke, H
 - [Design, synthesis and characterization of a new blue phosphorescent Ir complex](https://pubs.rsc.org/en/content/articlehtml/2015/tc/c5tc01544h), Chuang Yao†, **Jingxian Li†**, Jinshan Wang, Xinjun Xu\*, Ronghua Liu, Lidong Li\*, *Journal of Materials Chemistry C* **3(33)**, 8675-8683 (2015)
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.11* MRS Graduate Student Silver Award, Materials Research Society (MRS), 2023 Fall
+- *2023.11* APL Machine Learning Outstanding Oral Presentation Award, EL20 Symposium Session, Materials Research Society (MRS), 2023 Fall
+- *2023.06* Final List of Student Oral Award, Electronic Materials Conference (EMC), 2023
+- *2023.03* Gold Poster Award Winner, Annual Symposium Poster Session of Michigan Materials Research Institute (MMRI), University of Michigan, 2023
+- *2015.04* Outstanding Graduate of Beijing, Top 1% of Students in University of Science and Technology, Beijing, 2015
+- *2014.11* Undergraduate Mathematical Contest in Modelling, 1st Prize, Beijing, Beijing Mathematical Society, 2014
+- *2014.11* Merit Student of Beijing, Top 0.1% of Students in University of Science and Technology, Beijing, 2014
+- *2013.11* National Scholarship, Top 1% of Students in University of Science and Technology, Beijing, 2012 & 2013
+- *2012.02* Undergraduate Physics Competitions of Beijing, 2nd Prize, Beijing Physics Society, 2012
+- *2012.02* Undergraduate Mathematics Competitions of Beijing, 3rd Prize, Beijing Mathematical Society, 2012
 
+<!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
@@ -94,7 +103,7 @@ A Alec Talin\*, Jordan Meyer, **Jingxian Li**, Mantao Huang, Miranda Schwacke, H
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
-<!--
+
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
