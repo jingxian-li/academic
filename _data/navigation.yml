@@ -3,8 +3,8 @@ main:
   - title: "About Me"
     url: "/academic/#about-me"
 
-  - title: "News"
-    url: "/academic/#-news"
+  - title: "Educations"
+    url: "/academic/#-educations"
 
   - title: "Publications"
     url: "/academic/#-publications"
@@ -12,11 +12,11 @@ main:
   - title: "Honors and Awards"
     url: "/academic/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "/academic/#-educations"
-
   - title: "Invited Talks"
     url: "/academic/#-invited-talks"
 
   - title: "Internships"
     url: "/academic/#-internships"
+
+  #- title: "News"
+  #  url: "/academic/#-news"
