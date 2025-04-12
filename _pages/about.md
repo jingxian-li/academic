@@ -54,6 +54,18 @@ Device, 3 (3), 100623 (2025) <strong><span class='show_paper_citations' data='Sn
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Matter</div><img src='images/Matter.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Thermodynamic origin of nonvolatility in resistive memory](https://www.cell.com/matter/fulltext/S2590-2385(24)00428-4)
+
+**Jingxian Li**, Anirudh Appachar, Sabrina L. Peczonczyk, Elisa T. Harrison, Brianna Roest, Anton V. Ievlev, Ryan Hood, Sangmin Yoo, Kai Sun, A. Alec Talin, Wei D. Lu, Suhas Kumar, Wenhao Sun, Yiyang Li*
+
+Matter, 7 (11), 3970-3993 (2024) <strong><span class='show_paper_citations' data='Snh-2QIAAAAJ:W7OEmFMy1HYC'></span></strong>
+- We reveal that the formation and stability of conductive filaments crucially depend on the stability of the amorphous oxygen-rich and oxygen-poor compounds, which undergo composition phase separation. 
+</div>
+</div>
+
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
