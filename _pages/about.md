@@ -24,7 +24,7 @@ During my PhD, I applied materials science and engineering principles to underst
 My research passion lies in developing information processing paradigms using emerging materials and devices, including spintronic, ferroelectric, superconducting, and electrochemical systems. I have published ~10 papers <!--(<a href='https://scholar.google.com/citations?user=Snh-2QIAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)--> at leading journals, such as Chemical Reviews, Matter, Materials Horizons, and Device.
 
 
-# 📖 Educations
+# 📖 Education
 - *2020.09 - 2024.09*, Ph.D. in Materials Science and Engineering, University of Michigan, Ann Arbor, MI
 - *2022.09 - 2014.05*, M.S. in Computer Vision, Electrical and Computer Engineering, University of Michigan, Ann Arbor, MI
 - *2015.09 - 2018.01*, M.E. in Materials Science and Engineering, University of Science and Technology Beijing, China
