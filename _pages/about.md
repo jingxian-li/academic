@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I did my PhD in Materials Science and Engineering, and Master's degree in Electrical and Computer Engineering, specializing in Computer Vision, at the University of Michigan, Ann Arbor. I received my Master's degree in Materials Science and Engineering in 2018 and my Bachelor's degree in Materials Physics in 2015, both from the University of Science and Technology Beijing.
+I did my PhD in Materials Science and Engineering, and Master's degree in Electrical and Computer Engineering, specializing in Computer Vision, at the University of Michigan, Ann Arbor. 
 
 During my PhD, I applied materials science and engineering principles to understand and design resistive memory devices on electrochemical processes. Specifically, I investigated oxygen transport dynamics in two-terminal resistive random-access memory (RRAM) and developed high-temperature three-terminal electrochemical random-access memory (ECRAM). 
 
