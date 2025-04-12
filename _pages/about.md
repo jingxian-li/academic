@@ -25,8 +25,10 @@ My research passion lies in developing information processing paradigms using em
 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 - 2024.09*, Ph.D. in Materials Science and Engineering, University of Michigan, Ann Arbor, MI. 
+- *2022.09 - 2019.04*, M.S. in Computer Vision, Electrical and Computer Engineering, University of Michigan, Ann Arbor, MI.
+- *2015.09 - 2018.01*, M.E. in Materials Science and Engineering, University of Science and Technology Beijing, China.
+- *2011.09 - 2015.06*, B.E. in Materials Physics, University of Science and Technology Beijing, China. 
 
 # 📝 Publications 
 
