@@ -66,6 +66,18 @@ Matter, 7 (11), 3970-3993 (2024) <strong><span class='show_paper_citations' data
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Materials Horizons</div><img src='images/MatHor.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Electrochemical and thermodynamic processes of metal nanoclusters enabled biorealistic synapses and leaky-integrate-and-fire neurons](https://www.cell.com/matter/fulltext/S2590-2385(24)00428-4)
+
+**Jingxian Li**, Yuchao Yang\*, Minghui Yin, Xinhao Sun, Lidong Li\*, and Ru Huang*
+
+*Materials Horizons*, 7, 71-81 (2020) <strong><span class='show_paper_citations' data='Snh-2QIAAAAJ:u5HHmVD_uO8C'></span></strong>
+- Our study employs the electrochemical migration and thermodynamic relaxation of silver nanoclusters within dielectric materials to accurately mimic the dynamic processes of synapses and neurons in biological systems. 
+</div>
+</div>
+
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
