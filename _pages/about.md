@@ -21,7 +21,7 @@ I did my PhD in Materials Science and Engineering, and Master degree in Electric
 
 During my PhD, I applied materials science and engineering principles to understand and design resistive memory devices on electrochemical processes. Specifically, I investigated oxygen transport dynamics in two-terminal resistive random-access memory (RRAM) and developed high-temperature three-terminal electrochemical random-access memory (ECRAM). 
 
-My research passion lies in developing information processing paradigms using emerging materials and devices, such as spintronic, ferroelectric, superconducting, and electrochemical systems. I have published ~10 papers (<a href='https://scholar.google.com/citations?user=Snh-2QIAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>) at top journals, such as Chemical Reviews, Matter, Materials Horizons, and Device.
+My research passion lies in developing information processing paradigms using emerging materials and devices, such as spintronic, ferroelectric, superconducting, and electrochemical systems. I have published ~10 papers <!--(<a href='https://scholar.google.com/citations?user=Snh-2QIAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)--> at top journals, such as Chemical Reviews, Matter, Materials Horizons, and Device.
 
 
 # 📖 Educations
