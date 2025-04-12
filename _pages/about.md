@@ -26,7 +26,7 @@ My research passion lies in developing information processing paradigms using em
 
 # 📖 Educations
 - *2020.09 - 2024.09*, Ph.D. in Materials Science and Engineering, University of Michigan, Ann Arbor, MI
-- *2022.09 - 2014.04*, M.S. in Computer Vision, Electrical and Computer Engineering, University of Michigan, Ann Arbor, MI
+- *2022.09 - 2014.05*, M.S. in Computer Vision, Electrical and Computer Engineering, University of Michigan, Ann Arbor, MI
 - *2015.09 - 2018.01*, M.E. in Materials Science and Engineering, University of Science and Technology Beijing, China
 - *2011.09 - 2015.06*, B.E. in Materials Physics, University of Science and Technology Beijing, China 
 
@@ -88,7 +88,7 @@ A Alec Talin\*, Jordan Meyer, **Jingxian Li**, Mantao Huang, Miranda Schwacke, H
 - *2023.11* APL Machine Learning Outstanding Oral Presentation Award, EL20 Symposium Session, Materials Research Society (MRS), 2023 Fall
 - *2023.06* Final List of Student Oral Award, Electronic Materials Conference (EMC), 2023
 - *2023.03* Gold Poster Award Winner, Annual Symposium Poster Session of Michigan Materials Research Institute (MMRI), University of Michigan, 2023
-- *2015.04* Outstanding Graduate of Beijing, Top 1% of Students in University of Science and Technology, Beijing, 2015
+- *2015.06* Outstanding Graduate of Beijing, Top 1% of Students in University of Science and Technology, Beijing, 2015
 - *2014.11* Undergraduate Mathematical Contest in Modelling, 1st Prize, Beijing, Beijing Mathematical Society, 2014
 - *2014.11* Merit Student of Beijing, Top 0.1% of Students in University of Science and Technology, Beijing, 2014
 - *2013.11* National Scholarship, Top 1% of Students in University of Science and Technology, Beijing, 2012 & 2013
