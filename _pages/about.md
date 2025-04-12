@@ -37,7 +37,7 @@ My research passion lies in developing information processing paradigms using em
 
 A Alec Talin\*, Jordan Meyer, **Jingxian Li**, Mantao Huang, Miranda Schwacke, Heejung W Chung, Longlong Xu, Elliot J Fuller, Yiyang Li\*, Bilge Yildiz*
 
-Chemical Reviews, 125 (4), 1962-2008 (2025) <strong><span class='show_paper_citations' data='Snh-2QIAAAAJ:Y0pCki6q_DkC'></span></strong>
+*Chemical Reviews* **125(4)**, 1962-2008 (2025) <strong><span class='show_paper_citations' data='Snh-2QIAAAAJ:Y0pCki6q_DkC'></span></strong>
 - In this review, we discuss the history, basic concepts, recent progress, as well as the challenges and opportunities for different types of electrochemical random access memory (ECRAM), broadly grouped by their primary mobile ionic charge carrier, including Li, protons, and oxygen vacancies. 
 </div>
 </div>
@@ -49,7 +49,7 @@ Chemical Reviews, 125 (4), 1962-2008 (2025) <strong><span class='show_paper_cita
 
 **Jingxian Li\***, Andrew J Jalbert, Sangyong Lee, Leah S Simakas, Noah J Geisler, Virgil J Watkins, Laszlo A Cline, Elliot J Fuller, A Alec Talin, Yiyang Li*
 
-Device, 3 (3), 100623 (2025) <strong><span class='show_paper_citations' data='Snh-2QIAAAAJ:zYLM7Y9cAGgC'></span></strong>
+*Device* **3(3)**, 100623 (2025) <strong><span class='show_paper_citations' data='Snh-2QIAAAAJ:zYLM7Y9cAGgC'></span></strong>
 - We present a solid-state memory device that can operate and store information at temperatures as high as 600 °C. Rather than relying on the motion of electrons, this device stores information through the electrochemical migration of oxygen ions in transition metal oxides, a process that resembles that of solid oxide fuel cells and batteries. 
 </div>
 </div>
@@ -61,7 +61,7 @@ Device, 3 (3), 100623 (2025) <strong><span class='show_paper_citations' data='Sn
 
 **Jingxian Li**, Anirudh Appachar, Sabrina L. Peczonczyk, Elisa T. Harrison, Brianna Roest, Anton V. Ievlev, Ryan Hood, Sangmin Yoo, Kai Sun, A. Alec Talin, Wei D. Lu, Suhas Kumar, Wenhao Sun, Yiyang Li*
 
-Matter, 7 (11), 3970-3993 (2024) <strong><span class='show_paper_citations' data='Snh-2QIAAAAJ:W7OEmFMy1HYC'></span></strong>
+*Matter* **7(11)**, 3970-3993 (2024) <strong><span class='show_paper_citations' data='Snh-2QIAAAAJ:W7OEmFMy1HYC'></span></strong>
 - We reveal that the formation and stability of conductive filaments crucially depend on the stability of the amorphous oxygen-rich and oxygen-poor compounds, which undergo composition phase separation. 
 </div>
 </div>
@@ -73,7 +73,7 @@ Matter, 7 (11), 3970-3993 (2024) <strong><span class='show_paper_citations' data
 
 **Jingxian Li**, Yuchao Yang\*, Minghui Yin, Xinhao Sun, Lidong Li\*, and Ru Huang*
 
-*Materials Horizons*, 7, 71-81 (2020) <strong><span class='show_paper_citations' data='Snh-2QIAAAAJ:u5HHmVD_uO8C'></span></strong>
+*Materials Horizons* **7**, 71-81 (2020) <strong><span class='show_paper_citations' data='Snh-2QIAAAAJ:u5HHmVD_uO8C'></span></strong>
 - Our study employs the electrochemical migration and thermodynamic relaxation of silver nanoclusters within dielectric materials to accurately mimic the dynamic processes of synapses and neurons in biological systems. 
 </div>
 </div>
