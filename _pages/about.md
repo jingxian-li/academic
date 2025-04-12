@@ -64,7 +64,7 @@ A Alec Talin\*, Jordan Meyer, **Jingxian Li**, Mantao Huang, Miranda Schwacke, H
 **Jingxian Li**, Anirudh Appachar, Sabrina L. Peczonczyk, Elisa T. Harrison, Brianna Roest, Anton V. Ievlev, Ryan Hood, Sangmin Yoo, Kai Sun, A. Alec Talin, Wei D. Lu, Suhas Kumar, Wenhao Sun, Yiyang Li*
 
 *Matter* **7(11)**, 3970-3993 (2024) <strong><span class='show_paper_citations' data='Snh-2QIAAAAJ:W7OEmFMy1HYC'></span></strong>
-- Previously, information retention was believed to arise from the slow diffusion of oxygen ions in the resistive switching material that kinetically “freezes” the information state. In this study, we show that information retention is not only a result of slow oxygen diffusion but also a thermodynamic property of **composition phase separation**, whereby there can be several states that are identical in energy. 
+- Previously, information retention was believed to arise from the slow diffusion of oxygen ions in the resistive switching material that kinetically “freezes” the information state. In this study, we show that information retention is not only a result of slow oxygen diffusion but also a thermodynamic property of **composition phase separation**. 
 </div>
 </div>
 
