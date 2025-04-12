@@ -19,9 +19,9 @@ redirect_from:
 
 I did my PhD in Materials Science and Engineering, and Master's degree in Electrical and Computer Engineering, specializing in Computer Vision, at the University of Michigan, Ann Arbor. 
 
-During my PhD, I applied materials science and engineering principles to understand and design resistive memory devices on electrochemical processes. Specifically, I investigated oxygen transport dynamics in two-terminal resistive random-access memory (RRAM) and developed high-temperature three-terminal electrochemical random-access memory (ECRAM). 
+During my PhD, I applied materials science and engineering principles to understand and design resistive memory devices on electrochemical processes. Specifically, I investigated transport dynamics of oxygen ions in two-terminal resistive random-access memory (RRAM) and developed high-temperature three-terminal electrochemical random-access memory (ECRAM). 
 
-My research passion lies in developing information processing paradigms using emerging materials and devices, including spintronic, ferroelectric, superconducting, and electrochemical systems. I have published ~10 papers <!--(<a href='https://scholar.google.com/citations?user=Snh-2QIAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)--> at leading journals, such as Chemical Reviews, Matter, Materials Horizons, and Device.
+My research passion lies in developing information processing paradigms using emerging materials and devices, including spintronic, ferroelectric, superconducting, and ionic systems. I have published ~10 papers <!--(<a href='https://scholar.google.com/citations?user=Snh-2QIAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)--> at leading journals, such as Chemical Reviews, Matter, Materials Horizons, and Device.
 
 
 # 📖 Education
@@ -64,7 +64,7 @@ A Alec Talin\*, Jordan Meyer, **Jingxian Li**, Mantao Huang, Miranda Schwacke, H
 **Jingxian Li**, Anirudh Appachar, Sabrina L. Peczonczyk, Elisa T. Harrison, Brianna Roest, Anton V. Ievlev, Ryan Hood, Sangmin Yoo, Kai Sun, A. Alec Talin, Wei D. Lu, Suhas Kumar, Wenhao Sun, Yiyang Li*
 
 *Matter* **7(11)**, 3970-3993 (2024) <strong><span class='show_paper_citations' data='Snh-2QIAAAAJ:W7OEmFMy1HYC'></span></strong>
-- We reveal that the formation and stability of conductive filaments crucially depend on the stability of the amorphous oxygen-rich and oxygen-poor compounds, which undergo composition phase separation. 
+- Previously, information retention was believed to arise from the slow diffusion of oxygen in the resistive switching material that kinetically “freezes” the information state. In this study, we show that information retention is not only a result of slow oxygen ion diffusion but also a thermodynamic property of composition phase separation, whereby there can be several states that are identical in energy. 
 </div>
 </div>
 
