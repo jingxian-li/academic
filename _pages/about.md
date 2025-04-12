@@ -76,7 +76,7 @@ A Alec Talin\*, Jordan Meyer, **Jingxian Li**, Mantao Huang, Miranda Schwacke, H
 **Jingxian Li**, Yuchao Yang\*, Minghui Yin, Xinhao Sun, Lidong Li\*, and Ru Huang*
 
 *Materials Horizons* **7**, 71-81 (2020) <strong><span class='show_paper_citations' data='Snh-2QIAAAAJ:u5HHmVD_uO8C'></span></strong>
-- Our study employs the electrochemical migration and thermodynamic relaxation of silver nanoclusters within dielectric materials to accurately mimic the dynamic processes of synapses and neurons in biological systems. 
+- Our study employs the electrochemical migration and thermodynamic relaxation of silver ions within dielectric materials to accurately mimic the dynamic processes of synapses and neurons in biological systems. 
 </div>
 </div>
 
