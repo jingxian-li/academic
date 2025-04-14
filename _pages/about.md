@@ -44,7 +44,7 @@ A Alec Talin\*, Jordan Meyer, **Jingxian Li**, Mantao Huang, Miranda Schwacke, H
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Device</div><img src='images/Device.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Device</div><img src='images/Dev.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Nonvolatile electrochemical memory at 600°C enabled by composition phase separation](https://www.cell.com/device/fulltext/S2666-9986(24)00580-5)
@@ -56,7 +56,7 @@ A Alec Talin\*, Jordan Meyer, **Jingxian Li**, Mantao Huang, Miranda Schwacke, H
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Matter</div><img src='images/Matter.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Matter</div><img src='images/Mat.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Thermodynamic origin of nonvolatility in resistive memory](https://www.cell.com/matter/fulltext/S2590-2385(24)00428-4)
