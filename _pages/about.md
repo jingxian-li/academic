@@ -26,7 +26,7 @@ My research passion lies in developing information processing paradigms using em
 
 # 📖 Education
 - *2020.09 - 2024.09*, Ph.D. in Materials Science and Engineering, University of Michigan, Ann Arbor, MI
-- *2022.09 - 2014.05*, M.S. in Computer Vision, Electrical and Computer Engineering, University of Michigan, Ann Arbor, MI
+- *2022.09 - 2024.05*, M.S. in Computer Vision, Electrical and Computer Engineering, University of Michigan, Ann Arbor, MI
 - *2015.09 - 2018.01*, M.E. in Materials Science and Engineering, University of Science and Technology Beijing, China
 - *2011.09 - 2015.06*, B.E. in Materials Physics, University of Science and Technology Beijing, China 
 
