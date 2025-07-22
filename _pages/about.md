@@ -71,7 +71,7 @@ A Alec Talin\*, Jordan Meyer, **Jingxian Li**, Mantao Huang, Miranda Schwacke, H
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Materials Horizons</div><img src='images/MatHor.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Electrochemical and thermodynamic processes of metal nanoclusters enabled biorealistic synapses and leaky-integrate-and-fire neurons](https://www.cell.com/matter/fulltext/S2590-2385(24)00428-4)
+[Electrochemical and thermodynamic processes of metal nanoclusters enabled biorealistic synapses and leaky-integrate-and-fire neurons](https://doi.org/10.1039/C9MH01206K)
 
 **Jingxian Li**, Yuchao Yang\*, Minghui Yin, Xinhao Sun, Lidong Li\*, and Ru Huang*
 
