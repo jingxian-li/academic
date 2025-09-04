@@ -104,7 +104,11 @@ A Alec Talin\*, Jordan Meyer, **Jingxian Li**, Mantao Huang, Miranda Schwacke, H
 **Jingxian Li**, Zhiran Wang, Naichen Shi
 
 - We explore the challenge of generating 3D models from single or sparse-view 2D images that use advanced neural architectures and techniques like 3D Gaussian splatting for detailed model generation. We provide a series of evaluations that demonstrate significant advances in generative models that bridge the gap between 2D inputs and 3D outputs.
+</div>
+</div>
 
+- [Reproducibility Study of ”Learning Fast, Learning Slow”](https://pubs.rsc.org/en/content/articlelanding/2017/ra/c7ra07522g), **Jingxian Li**
+- 
 # 🎖 Honors and Awards
 - MRS Graduate Student Silver Award, Materials Research Society (MRS), 2023 Fall
 - APL Machine Learning Outstanding Oral Presentation Award, EL20 Symposium Session, Materials Research Society (MRS), 2023 Fall
