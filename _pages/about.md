@@ -30,7 +30,7 @@ My research passion lies in developing information processing paradigms using em
 - *2015.09 - 2018.01*, M.E. in Materials Science and Engineering, University of Science and Technology Beijing, China
 - *2011.09 - 2015.06*, B.E. in Materials Physics, University of Science and Technology Beijing, China 
 
-# 📝 Publications 
+# 📝 Hardware Research 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chemical Reviews</div><img src='images/CheRev.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -82,6 +82,19 @@ A Alec Talin\*, Jordan Meyer, **Jingxian Li**, Mantao Huang, Miranda Schwacke, H
 
 - [Tuning analog resistive switching and plasticity in bilayer transition metal oxide based memristive synapses](https://pubs.rsc.org/en/content/articlelanding/2017/ra/c7ra07522g), **Jingxian Li**, Qingxi Duan, Teng Zhang, Minghui Yin, Xinhao Sun, Yimao Cai, Lidong Li\*, Yuchao Yang\*, and Ru Huang\*, *RSC Advance* **7**, 43132-43140 (2017)
 - [Design, synthesis and characterization of a new blue phosphorescent Ir complex](https://pubs.rsc.org/en/content/articlehtml/2015/tc/c5tc01544h), Chuang Yao†, **Jingxian Li†**, Jinshan Wang, Xinjun Xu\*, Ronghua Liu, Lidong Li\*, *Journal of Materials Chemistry C* **3(33)**, 8675-8683 (2015)
+
+# 💻 Software Projects
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automatic Phase Characterization</div><img src='images/amm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Automatic Phase Characterization of Additively Manufactured Materials](https://github.com/jingxian-li/EECS_504_Project)
+
+**Jingxian Li**, Soumyadeep Dasgupta, Nicholas David, Yujie Liu
+
+- We develop two learning based computer vision systems, based of the Unet++ and Segment Anything models, to automatically identify and label the phase fractions of common constituents inside steels using semantic segmentation approaches. 
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - MRS Graduate Student Silver Award, Materials Research Society (MRS), 2023 Fall
