@@ -104,8 +104,6 @@ A Alec Talin\*, Jordan Meyer, **Jingxian Li**, Mantao Huang, Miranda Schwacke, H
 **Jingxian Li**, Zhiran Wang, Naichen Shi
 
 - We explore the challenge of generating 3D models from single or sparse-view 2D images that use advanced neural architectures and techniques like 3D Gaussian splatting for detailed model generation. We provide a series of evaluations that demonstrate significant advances in generative models that bridge the gap between 2D inputs and 3D outputs.
-</div>
-</div>
 
 # 🎖 Honors and Awards
 - MRS Graduate Student Silver Award, Materials Research Society (MRS), 2023 Fall
