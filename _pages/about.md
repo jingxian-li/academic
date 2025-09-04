@@ -85,7 +85,7 @@ A Alec Talin\*, Jordan Meyer, **Jingxian Li**, Mantao Huang, Miranda Schwacke, H
 
 # 💻 Software Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automatic Phase Characterization</div><img src='images/amm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Phase Identification</div><img src='images/amm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Automatic Phase Characterization of Additively Manufactured Materials](https://github.com/jingxian-li/EECS_504_Project)
