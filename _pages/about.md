@@ -84,7 +84,6 @@ A Alec Talin\*, Jordan Meyer, **Jingxian Li**, Mantao Huang, Miranda Schwacke, H
 - [Design, synthesis and characterization of a new blue phosphorescent Ir complex](https://pubs.rsc.org/en/content/articlehtml/2015/tc/c5tc01544h), Chuang Yao†, **Jingxian Li†**, Jinshan Wang, Xinjun Xu\*, Ronghua Liu, Lidong Li\*, *Journal of Materials Chemistry C* **3(33)**, 8675-8683 (2015)
 
 # 💻 Software Projects
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automatic Phase Characterization</div><img src='images/amm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
