@@ -6,8 +6,11 @@ main:
   - title: "Education"
     url: "/academic/#-education"
 
-  - title: "Publications"
-    url: "/academic/#-publications"
+  - title: "Hardware Research"
+    url: "/academic/#-Hardware-Research"
+
+  - title: "Software Projects"
+    url: "/academic/#-Software-Projects"
 
   - title: "Honors and Awards"
     url: "/academic/#-honors-and-awards"
