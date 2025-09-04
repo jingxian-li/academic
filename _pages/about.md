@@ -84,6 +84,7 @@ A Alec Talin\*, Jordan Meyer, **Jingxian Li**, Mantao Huang, Miranda Schwacke, H
 - [Design, synthesis and characterization of a new blue phosphorescent Ir complex](https://pubs.rsc.org/en/content/articlehtml/2015/tc/c5tc01544h), Chuang Yao†, **Jingxian Li†**, Jinshan Wang, Xinjun Xu\*, Ronghua Liu, Lidong Li\*, *Journal of Materials Chemistry C* **3(33)**, 8675-8683 (2015)
 
 # 💻 Software Projects
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automatic Phase Characterization</div><img src='images/amm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -92,6 +93,17 @@ A Alec Talin\*, Jordan Meyer, **Jingxian Li**, Mantao Huang, Miranda Schwacke, H
 **Jingxian Li**, Soumyadeep Dasgupta, Nicholas David, Yujie Liu
 
 - We develop two learning based computer vision systems, based of the Unet++ and Segment Anything models, to automatically identify and label the phase fractions of common constituents inside steels using semantic segmentation approaches. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">3D Generative Model</div><img src='images/3DGaussian.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[From 3D Gaussian Splatting to 3D Generative Model](https://github.com/jingxian-li/EECS_542_Project)
+
+**Jingxian Li**, Zhiran Wang, Naichen Shi
+
+- We explore the challenge of generating 3D models from single or sparse-view 2D images that use advanced neural architectures and techniques like 3D Gaussian splatting for detailed model generation. We provide a series of evaluations that demonstrate significant advances in generative models that bridge the gap between 2D inputs and 3D outputs.
 </div>
 </div>
 
