@@ -21,6 +21,8 @@ I did my PhD in Materials Science and Engineering, and Master's degree in Electr
 
 During my PhD, I applied materials science and engineering principles to understand and design resistive memory devices on electrochemical processes. My research passion lies in developing information processing paradigms using emerging materials and devices, including solid-state ionic, two-dimensional materials, spintronic, ferroelectric, and superconducting systems. 
 
+In addition to my research, I have also worked on projects in computer vision, including building object recognition and scene understanding pipelines. More recently, I am planning a hobby project to design a 3D-printed robotic arm integrated with large language models, enabling natural language–driven control and adaptive learning.
+
 # 📖 Education
 - *2020.09 - 2024.09*, Ph.D. in Materials Science and Engineering, University of Michigan, Ann Arbor, MI
 - *2022.09 - 2024.05*, M.S. in Computer Vision, Electrical and Computer Engineering, University of Michigan, Ann Arbor, MI
