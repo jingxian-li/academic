@@ -19,10 +19,7 @@ redirect_from:
 
 I did my PhD in Materials Science and Engineering, and Master's degree in Electrical and Computer Engineering, specializing in Computer Vision, at the University of Michigan, Ann Arbor. 
 
-During my PhD, I applied materials science and engineering principles to understand and design resistive memory devices on electrochemical processes. Specifically, I investigated transport dynamics of oxygen ions in two-terminal resistive random-access memory (RRAM) and developed high-temperature three-terminal electrochemical random-access memory (ECRAM). 
-
-My research passion lies in developing information processing paradigms using emerging materials and devices, including solid-state ionic, spintronic, ferroelectric, and superconducting systems. I have published ~10 papers <!--(<a href='https://scholar.google.com/citations?user=Snh-2QIAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)--> at leading journals, such as Chemical Reviews, Matter, Materials Horizons, and Device.
-
+During my PhD, I applied materials science and engineering principles to understand and design resistive memory devices on electrochemical processes. My research passion lies in developing information processing paradigms using emerging materials and devices, including solid-state ionic, two-dimensional materials, spintronic, ferroelectric, and superconducting systems. 
 
 # 📖 Education
 - *2020.09 - 2024.09*, Ph.D. in Materials Science and Engineering, University of Michigan, Ann Arbor, MI
