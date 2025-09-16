@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jingxian Li"
-description              : "Principal Engineer"
+description              : "PhD in Materials Science @ University of Michigan"
 repository               : "jingxian-li/academic.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jingxian Li"
   avatar           : "images/jingxianli.jpg"
-  bio              : "PhD in Materials Science @ University of Michigan"
+  bio              : "Principal Engineer"
   location         : "Ann Arbor, MI"
-  employer         :
+  employer         : "CDimension Inc"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Snh-2QIAAAAJ"
   email            : "jxli@umich.edu"
