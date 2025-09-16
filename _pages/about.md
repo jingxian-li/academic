@@ -21,7 +21,7 @@ I did my PhD in **Materials Science and Engineering**, and Master's degree in El
 
 During my PhD, I applied materials science and engineering principles to understand and design resistive memory devices on electrochemical processes. My research passion lies in developing **information processing paradigms** using emerging materials and devices, including solid-state ionic, two-dimensional materials, spintronic, ferroelectric, and superconducting systems. 
 
-In addition to my research, I have also worked on projects in computer vision, including building object recognition and scene understanding pipelines. Recently, I am focusing on a hobby project of a 3D-printed robotic arm integrated with **large language models** for control and learning.
+In addition to my research, I have also worked on projects in computer vision, including building **object recognition** and scene understanding pipelines. Recently, I am focusing on a hobby project of a 3D-printed **robotic arm** integrated with **large language models** for control and learning.
 
 # 📖 Education
 - *2020.09 - 2024.09*, Ph.D. in Materials Science and Engineering, University of Michigan, Ann Arbor, MI
@@ -91,7 +91,7 @@ A Alec Talin\*, Jordan Meyer, **Jingxian Li**, Mantao Huang, Miranda Schwacke, H
 
 **Jingxian Li**, Soumyadeep Dasgupta, Nicholas David, Yujie Liu
 
-- We develop two learning based computer vision systems, based of the **Unet++** and **Segment Anything** models, to automatically identify and label the phase fractions of common constituents inside steels using semantic segmentation approaches. 
+- We develop two learning based computer vision systems, based of the **Unet++** and **Segment Anything** models, to automatically identify and label the **phase fractions** of common constituents inside steels using semantic segmentation approaches. 
 </div>
 </div>
 
@@ -102,7 +102,7 @@ A Alec Talin\*, Jordan Meyer, **Jingxian Li**, Mantao Huang, Miranda Schwacke, H
 
 **Jingxian Li**, Zhiran Wang, Naichen Shi
 
-- We explore the challenge of generating 3D models from single or sparse-view 2D images that use advanced neural architectures and techniques like **3D Gaussian splatting** for detailed model generation. We provide a series of evaluations that demonstrate significant advances in generative models that bridge the gap between 2D inputs and 3D outputs.
+- We explore the challenge of **generating 3D models** from single or sparse-view 2D images that use advanced neural architectures and techniques like **3D Gaussian splatting** for detailed model generation. We provide a series of evaluations that demonstrate significant advances in generative models that bridge the gap between 2D inputs and 3D outputs.
 </div>
 </div>
  
