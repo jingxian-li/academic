@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jingxian Li"
-description              : "Materials Engineer"
+description              : 
 repository               : "jingxian-li/academic.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jingxian Li"
   avatar           : "images/jingxianli.jpg"
-  bio              : 
+  bio              : "Materials Engineer"
   location         : "Ann Arbor, MI"
   employer         : 
   pubmed           : 
